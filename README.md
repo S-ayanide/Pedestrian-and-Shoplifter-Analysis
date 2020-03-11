@@ -19,6 +19,14 @@ It can detect human emotions of all the customers and give an automated overall 
 
 Some Images here
 
+### Pedestrian Detection
+
+Yet to be done 😔
+
+### Body Language Detection
+
+Yet to be done 😔
+
 ### Dataset Used
 
 Kaggle Dataset :- https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data.
