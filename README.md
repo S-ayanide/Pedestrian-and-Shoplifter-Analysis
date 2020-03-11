@@ -27,6 +27,10 @@ Yet to be done 😔
 
 Yet to be done 😔
 
+## Activity Diagram
+
+<img src="./ActivityDiagram1.png" height="500px" width="500px" />
+
 ### Dataset Used
 
 Kaggle Dataset :- https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data.
