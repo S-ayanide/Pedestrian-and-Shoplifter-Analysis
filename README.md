@@ -17,7 +17,7 @@ This application could be broken down into three categories -
 
 It can detect human emotions of all the customers and give an automated overall happiness rating to the store. Some Screenshots of the live application can be found below.
 
-<img src="./Screenshots/Neutral.PNG" height="300px" width="300px" />
+<img src="./Screenshots/Neutral.PNG" height="300px" width="300px" /> <img src="./Screenshots/Happy.PNG" height="300px" width="300px" /> <img src="./Screenshots/Surprise.PNG" height="300px" width="300px" />
 
 ### Pedestrian Detection
 
